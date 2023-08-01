@@ -73,3 +73,10 @@
     font-weight: 700;
     text-decoration: none;
 }
+
+.descricao__titulo_autora{
+    color: var(--azul);
+    font-weight: 700;
+    font-size:18px;
+    margin: 0.5em 0;
+}
